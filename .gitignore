@@ -1,0 +1,7 @@
+__pycache__
+
+# checkpoints between training
+*0.weights 
+
+# mnist trains in 5mins don't need to upload it
+mnist
